@@ -21,6 +21,8 @@ This project simulates and optimizes the working schedule of a nanny based on th
   - Box plots and density plots show the distribution of hours worked by the nanny.
   - Visualization of the best nanny schedule in terms of actual hours worked each day.
 
+  ![Optimal Nanny Schedule](./output.png)
+
 ## Installation
 
 To run the project, you'll need to install the required Python libraries. The main dependencies are:
